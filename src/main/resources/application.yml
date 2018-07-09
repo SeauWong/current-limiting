@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /current-limiting
+  port: 5888
